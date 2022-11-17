@@ -44,5 +44,6 @@
   "bugs": {
     "url": "https://github.com/will123195/venti/issues"
   },
-  "homepage": "https://github.com/will123195/venti#readme"
+  "homepage": "https://github.com/will123195/venti#readme",
+  "type": "module"
 }
